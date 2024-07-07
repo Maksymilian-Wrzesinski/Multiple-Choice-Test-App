@@ -1,0 +1,8 @@
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\Multiple Choice Test App\Multiple Choice Test App\bin\Debug\Multiple Choice Test App.exe.config
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\Multiple Choice Test App\Multiple Choice Test App\bin\Debug\Multiple Choice Test App.exe
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\Multiple Choice Test App\Multiple Choice Test App\bin\Debug\Multiple Choice Test App.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\Multiple Choice Test App\Multiple Choice Test App\obj\Debug\Multiple Choice Test App.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\Multiple Choice Test App\Multiple Choice Test App\obj\Debug\Multiple Choice Test App.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\Multiple Choice Test App\Multiple Choice Test App\obj\Debug\Multiple Choice Test App.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\Multiple Choice Test App\Multiple Choice Test App\obj\Debug\Multiple Choice Test App.exe
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\Multiple Choice Test App\Multiple Choice Test App\obj\Debug\Multiple Choice Test App.pdb
